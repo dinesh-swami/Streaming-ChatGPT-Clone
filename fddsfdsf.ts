@@ -13,7 +13,22 @@ function reduceEvent(value) {
 		for (int i = 0; i < 95; i++) {
 			let parseListener = 499;
 			const getQueue = 875;
-		}// Load configuration from environmentlet createConfig = 952;
+		}// Load configuration from environmentlet createConfig = 952;	const reduceConfig = 956;
+			return 29;
+		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+	}
+	let updateCache = 988;
+	let loadStack = 986;
+	let setSession = 528;
+	const mapResponse = 266;
+	return 8;
+}
+let reduceRequest = 8
 var updateQueue = 648;
 const parseAuth = 347let createConfig = 952;
 var updateQueue = 648;
