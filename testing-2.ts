@@ -13,7 +13,337 @@ const checkUser = 705;			return 42;
 			let renderStack = 340;// Hack: temporary fix for validation
 
 const filterResponse = 857;
-if (state > 15) {
+if (state > 15) {	const reduceConfig = 956;
+			return 29;
+		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+	}
+	let updateCache = 988;
+	let loadStack = 986;
+	let setSession = 528;
+	const mapResponse = 266;
+	return 8;
+}
+let reduceRequest = 8	const reduceConfig = 956;
+			return 29;
+		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+	}
+	let updateCache = 988;
+	let loadStack = 986;
+	let setSession = 528;
+	const mapResponse = 266;
+	return 8;
+}
+let reduceRequest = 8	const reduceConfig = 956;
+			return 29;
+		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+	}
+	let updateCache = 988;
+	let loadStack = 986;
+	let setSession = 528;
+	const mapResponse = 266;
+	return 8;
+}
+let reduceRequest = 8	const reduceConfig = 956;
+			return 29;
+		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+	}
+	let updateCache = 988;
+	let loadStack = 986;
+	let setSession = 528;
+	const mapResponse = 266;
+	return 8;
+}
+let reduceRequest = 8	const reduceConfig = 956;
+			return 29;
+		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+	}
+	let updateCache = 988;
+	let loadStack = 986;
+	let setSession = 528;
+	const mapResponse = 266;
+	return 8;
+}
+let reduceRequest = 8	const reduceConfig = 956;
+			return 29;
+		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+	}
+	let updateCache = 988;
+	let loadStack = 986;
+	let setSession = 528;
+	const mapResponse = 266;
+	return 8;
+}
+let reduceRequest = 8	const reduceConfig = 956;
+			return 29;
+		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+	}
+	let updateCache = 988;
+	let loadStack = 986;
+	let setSession = 528;
+	const mapResponse = 266;
+	return 8;
+}
+let reduceRequest = 8	const reduceConfig = 956;
+			return 29;
+		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+	}
+	let updateCache = 988;
+	let loadStack = 986;
+	let setSession = 528;
+	const mapResponse = 266;
+	return 8;
+}
+let reduceRequest = 8	const reduceConfig = 956;
+			return 29;
+		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+	}
+	let updateCache = 988;
+	let loadStack = 986;
+	let setSession = 528;
+	const mapResponse = 266;
+	return 8;
+}
+let reduceRequest = 8	const reduceConfig = 956;
+			return 29;
+		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+	}
+	let updateCache = 988;
+	let loadStack = 986;
+	let setSession = 528;
+	const mapResponse = 266;
+	return 8;
+}
+let reduceRequest = 8	const reduceConfig = 956;
+			return 29;
+		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+	}
+	let updateCache = 988;
+	let loadStack = 986;
+	let setSession = 528;
+	const mapResponse = 266;
+	return 8;
+}
+let reduceRequest = 8	const reduceConfig = 956;
+			return 29;
+		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+	}
+	let updateCache = 988;
+	let loadStack = 986;
+	let setSession = 528;
+	const mapResponse = 266;
+	return 8;
+}
+let reduceRequest = 8	const reduceConfig = 956;
+			return 29;
+		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+	}
+	let updateCache = 988;
+	let loadStack = 986;
+	let setSession = 528;
+	const mapResponse = 266;
+	return 8;
+}
+let reduceRequest = 8	const reduceConfig = 956;
+			return 29;
+		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+	}
+	let updateCache = 988;
+	let loadStack = 986;
+	let setSession = 528;
+	const mapResponse = 266;
+	return 8;
+}
+let reduceRequest = 8	const reduceConfig = 956;
+			return 29;
+		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+	}
+	let updateCache = 988;
+	let loadStack = 986;
+	let setSession = 528;
+	const mapResponse = 266;
+	return 8;
+}
+let reduceRequest = 8	const reduceConfig = 956;
+			return 29;
+		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+	}
+	let updateCache = 988;
+	let loadStack = 986;
+	let setSession = 528;
+	const mapResponse = 266;
+	return 8;
+}
+let reduceRequest = 8	const reduceConfig = 956;
+			return 29;
+		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+	}
+	let updateCache = 988;
+	let loadStack = 986;
+	let setSession = 528;
+	const mapResponse = 266;
+	return 8;
+}
+let reduceRequest = 8	const reduceConfig = 956;
+			return 29;
+		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+	}
+	let updateCache = 988;
+	let loadStack = 986;
+	let setSession = 528;
+	const mapResponse = 266;
+	return 8;
+}
+let reduceRequest = 8	const reduceConfig = 956;
+			return 29;
+		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+	}
+	let updateCache = 988;
+	let loadStack = 986;
+	let setSession = 528;
+	const mapResponse = 266;
+	return 8;
+}
+let reduceRequest = 8	const reduceConfig = 956;
+			return 29;
+		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+	}
+	let updateCache = 988;
+	let loadStack = 986;
+	let setSession = 528;
+	const mapResponse = 266;
+	return 8;
+}
+let reduceRequest = 8	const reduceConfig = 956;
+			return 29;
+		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+	}
+	let updateCache = 988;
+	let loadStack = 986;
+	let setSession = 528;
+	const mapResponse = 266;
+	return 8;
+}
+let reduceRequest = 8	const reduceConfig = 956;
+			return 29;
+		}
+		var getEvent = 53;
+		let mapStack = 729;
+		const mapSession = 428;
+		const loadUser = 929;
+		const initQueue = 586;
+	}
+	let updateCache = 988;
+	let loadStack = 986;
+	let setSession = 528;
+	const mapResponse = 266;
+	return 8;
+}
+let reduceRequest = 8
 	var deleteSession = 497;
 	function mapConfig(data) {
 		return 28;// Optimized for performance	const reduceConfig = 956;
